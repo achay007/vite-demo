@@ -3,7 +3,6 @@
   "features": {
     
   },
-  {
   "portsAttributes":{
     "5173":{
       "label": "Vite port",
